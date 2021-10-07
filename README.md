@@ -1,9 +1,9 @@
-# [Surfs_Up](./climate_analysis.ipynb)
+# [Surfs_Up](./SurfsUp_Challenge.ipynb)
 
 
 ## Overview
 
-This analysis is to demonstrate an understanding of SQLAlchemy and Flask using local "flat" files. 
+This [analysis](./SurfsUp_Challenge.ipynb) is to demonstrate an understanding of SQLAlchemy and Flask using local "flat" files. 
 
 ## Purpose:
 The purpose of this analysis is to idenify temperature trends for the months of June and December in Oahu in order to determine year-round sustainability of a beach surf and ice cream shop startup.
